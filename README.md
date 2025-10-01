@@ -4,7 +4,9 @@ Fake News Detection using Machine Learning Algorithms
 
 This Project is to solve the problem with fake news. In this we have used two datasets named "Fake" and "True" from Kaggle. You can download the file from here https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset I have used five classifiers in this project the are Naive Bayes, Random Forest, Decision Tree, SVM, Logistic Regression.
 
-#Report:
+# Report
+
+
 Fake news has become a significant problem in today’s digital world. The spread of misinformation through social media and online platforms can influence public opinion and create confusion. Machine Learning provides automated techniques to classify news articles as either ‘fake’ or ‘true’ based on their content. This report explores the process of building a fake news detection model using Python, Pandas, and Scikit-learn.
 Dataset Description
 We use the Fake and True News Dataset, which contains two files: Fake.csv – News articles identified as fake. True.csv – News articles identified as true. Each file has the following columns: title – Headline of the news article. text – The full content of the article. subject – Category of the article (politics, world, etc.). date – Date of publication. The dataset is balanced between fake and true news, allowing for effective training and evaluation of classification models.
